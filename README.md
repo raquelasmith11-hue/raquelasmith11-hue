@@ -1,11 +1,11 @@
 
-# 👋 Halo Wolrd! Saya [Nama Anda] - Programmer Junior 💻
+# 👋 Halo Wolrd! Saya Fiana Anggraini - Programmer Junior 💻
 
 ```python
 # This is me in code form:
 class JuniorDeveloper:
     def __init__(self):
-        self.name = "[Nama Anda]"
+        self.name = "[Fiana Anggraini]"
         self.languages = ["Python", "HTML", "CSS", "JavaScript"]
         self.status = "Belajar setiap hari"
         self.motto = "Sedikit demi sedikit, lama-lama jadi bukit!"
