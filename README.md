@@ -115,7 +115,8 @@ print(message_to_reader())
 - **Genre**: Rock
 
 ## Pemutar Musik
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4Ssi6tKwrTHi5qvDndrZRP?utm_source=generator" width="100%" height="152" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+[![Dengarkan di Spotify](https://img.shields.io/badge/Dengarkan%20di-Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4Ssi6tKwrTHi5qvDndrZRP)
+
 ---
 
 ⭐ **Jangan lupa untuk memberikan star pada repository saya jika Anda menyukai project-project saya!** ⭐
