@@ -104,7 +104,19 @@ print(message_to_reader())
 ```
 
 ## 🎵 Lagu Coding Favorit Saya Saat Ini
-> "Code Like a Girl" - In Her Head 🎵
+# Wish You Were Here - Pink Floyd
+
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/7IasRR3ygK4w8q8wYcH2s2)
+
+## Song Information
+- **Artist**: Pink Floyd
+- **Album**: Wish You Were Here (1975) [[10]]
+- **Release Year**: 1975 [[4]]
+
+## Embedded Player
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7IasRR3ygK4w8q8wYcH2s2?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+> "A walk-on part in the war for a lead role in a cage? How I wish, how I wish you were here." [[4]]
 
 ---
 
