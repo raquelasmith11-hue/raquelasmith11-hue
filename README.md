@@ -1,5 +1,5 @@
 
-# 👋 Halo Dunia! Saya [Nama Anda] - Programmer Junior 💻
+# 👋 Halo Wolrd! Saya [Nama Anda] - Programmer Junior 💻
 
 ```python
 # This is me in code form:
