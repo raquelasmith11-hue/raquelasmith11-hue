@@ -114,16 +114,8 @@ print(message_to_reader())
 - **Tahun Rilis**: 1975
 
 ## Pemutar Musik
-<div style="margin: 20px 0;">
-  <iframe style="border-radius:12px" 
-          src="https://open.spotify.com/embed/track/4Ssi6tKwrTHi5qvDndrZRP?utm_source=generator" 
-          width="100%" 
-          height="152" 
-          frameborder="0" 
-          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
-          loading="lazy">
-  </iframe>
-</div>
+[![Wish You Were Here - Pink Floyd](https://i.scdn.co/image/ab67616d0000b273e7c198d6b0d8c4b7a9e8b6c7)](https://open.spotify.com/track/4Ssi6tKwrTHi5qvDndrZRP)
+
 ---
 
 ⭐ **Jangan lupa untuk memberikan star pada repository saya jika Anda menyukai project-project saya!** ⭐
