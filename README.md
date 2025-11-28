@@ -104,18 +104,18 @@ print(message_to_reader())
 ```
 
 ## 🎵 Lagu Favorit Saya
-# Wish You Were Here - Pink Floyd
+# Wish You Were Here - Neck Deep
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4Ssi6tKwrTHi5qvDndrZRP)
 
 ## Informasi Lagu
-- **Artist**: Pink Floyd
-- **Album**: Wish You Were Here
-- **Tahun Rilis**: 1975
+- **Artist**: Neck Deep
+- **Album**: The Peace And The Panic [[7]]
+- **Tanggal Rilis**: 18 Agustus 2017 [[4]]
+- **Genre**: Rock
 
 ## Pemutar Musik
-[![Wish You Were Here - Pink Floyd](https://i.scdn.co/image/ab67616d0000b273e7c198d6b0d8c4b7a9e8b6c7)](https://open.spotify.com/track/4Ssi6tKwrTHi5qvDndrZRP)
-
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4Ssi6tKwrTHi5qvDndrZRP?utm_source=generator" width="100%" height="152" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ---
 
 ⭐ **Jangan lupa untuk memberikan star pada repository saya jika Anda menyukai project-project saya!** ⭐
