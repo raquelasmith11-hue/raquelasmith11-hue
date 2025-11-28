@@ -69,12 +69,12 @@ Saya seorang programmer junior yang sedang dalam perjalanan menaklukkan dunia te
 
 ## 🎯 Tujuan Pembelajaran Saya
 
-### 📚 Short-term Goals (1-3 bulan)
+### 📚 Short-term Goals
 - ✅ Menguasai Python OOP dan functional programming
 - ✅ Membuat 3 project web lengkap dengan responsive design
 - ✅ Belajar dasar-dasar database (SQL & NoSQL)
 
-### 🚀 Long-term Goals (6-12 bulan)
+### 🚀 Long-term Goals
 - 🎯 Membangun aplikasi web full-stack dengan Python backend
 - 🎯 Berkontribusi pada open-source project
 - 🎯 Membuat tutorial coding untuk sesama pemula
